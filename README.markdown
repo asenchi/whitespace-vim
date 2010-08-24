@@ -7,5 +7,5 @@ and share it.
 Right now it's directed more towards Python's syntax. I want to figure out how
 to get this more universal across all langauges.
 
-![Syntax Preview](./whitespace.png)
+![Syntax Preview](whitespace.png)
 
