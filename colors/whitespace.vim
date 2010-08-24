@@ -13,7 +13,10 @@ if exists("syntax_on")
 endif
 
 let g:colors_name = "whitespace"
-hi Normal               guifg=NONE      guibg=#FFFFF0
+
+if has("gui_running")
+    hi Normal           guifg=#000000 guibg=#FFFFF0
+endif
 
 hi Comment          guifg=#999999
 
