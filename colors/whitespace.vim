@@ -36,7 +36,7 @@ endif
 let g:colors_name = "whitespace"
 
 if has("gui_running")
-    hi Normal           guifg=#000000 guibg=#FFFFF0
+    hi Normal           guifg=#000000 guibg=#FFFFF6
 endif
 
 hi Comment          guifg=#999999
